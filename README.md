@@ -18,10 +18,6 @@ Este é um jogo de memória simples e divertido feito com **HTML, CSS e JavaScri
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/vinicius-vses/memory-game.git
    ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd nome-do-repositorio
-   ```
-3. Abra o `index.html` no navegador ou utilize uma extensão como "Live Server" no VS Code.
+2. Abra o `index.html` no navegador ou utilize uma extensão como "Live Server" no VS Code.
